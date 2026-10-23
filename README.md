@@ -23,18 +23,18 @@ The emphasis is on explaining what I tested, what the evidence supports and what
 | 3.1P | [Service enumeration and vulnerability analysis](tasks/3.1p-service-enumeration-and-vulnerability-analysis.md) | Complete |
 | 3.2C | [FTP exposure with Metasploit scanners](tasks/3.2c-ftp-exposure-with-metasploit-scanners.md) | Complete |
 | 4.1P | [SLMail buffer overflow investigation](tasks/4.1p-slmail-buffer-overflow-investigation.md) | Complete |
-| 4.2D | [Payload handling and Windows privilege context](tasks/4.2d-payload-handling-and-windows-privilege-context.md) | Feedback Exceeded; final assessment not shown |
+| 4.2D | [Payload handling and Windows privilege context](tasks/4.2d-payload-handling-and-windows-privilege-context.md) | Complete |
 | 5.1P | [ARP poisoning and DNS response analysis](tasks/5.1p-arp-poisoning-and-dns-response-analysis.md) | Complete |
-| 5.2C | [ARP change detection and network identity tests](tasks/5.2c-arp-change-detection-and-network-identity-tests.md) | Time Exceeded; final assessment not shown |
-| 5.3D | [Telnet injection and HTTP interception](tasks/5.3d-telnet-injection-and-http-interception.md) | Discuss; final completion not shown |
+| 5.2C | [ARP change detection and network identity tests](tasks/5.2c-arp-change-detection-and-network-identity-tests.md) | Complete |
+| 5.3D | [Telnet injection and HTTP interception](tasks/5.3d-telnet-injection-and-http-interception.md) | Complete |
 | 6.1P | [Phishing simulation and availability testing](tasks/6.1p-phishing-simulation-and-availability-testing.md) | Complete |
-| 6.2C | [HTTP request pressure and mitigation evaluation](tasks/6.2c-http-request-pressure-and-mitigation-evaluation.md) | Time Exceeded; final assessment not shown |
+| 6.2C | [HTTP request pressure and mitigation evaluation](tasks/6.2c-http-request-pressure-and-mitigation-evaluation.md) | Complete |
 | 7.1P | [Pivoting across segmented networks](tasks/7.1p-pivoting-across-segmented-networks.md) | Complete |
 | 7.2D | [SSH authentication and web configuration review](tasks/7.2d-ssh-authentication-and-web-configuration-review.md) | Complete |
 | 8.1P | [Web application vulnerability investigations](tasks/8.1p-web-application-vulnerability-investigations.md) | Complete |
 | 8.2C | [Request tampering and upload validation](tasks/8.2c-request-tampering-and-upload-validation.md) | Complete |
 | 9.1P | [Android session and APK analysis](tasks/9.1p-android-session-and-apk-analysis.md) | Complete |
-| 9.2C | [Android debugging exposure and platform comparison](tasks/9.2c-android-debugging-exposure-and-platform-comparison.md) | Discuss; final completion not shown |
+| 9.2C | [Android debugging exposure and platform comparison](tasks/9.2c-android-debugging-exposure-and-platform-comparison.md) | Complete |
 | 10.1P | [MQTT traffic and cloud footprint analysis](tasks/10.1p-mqtt-traffic-and-cloud-footprint-analysis.md) | Complete |
 
 ## What this portfolio demonstrates
