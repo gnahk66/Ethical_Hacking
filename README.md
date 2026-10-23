@@ -51,10 +51,21 @@ The emphasis is on explaining what I tested, what the evidence supports and what
 
 This repository is adapted from the supplied SIT379 portfolio, whose printed body spans 206 pages; the PDF has 211 physical pages including the opening reflection. Task titles here are descriptive editorial titles, while task identifiers retain the original mapping. The status column reproduces the source snapshot; it does not claim a final grade. Three HD project milestones appear only as Not Started in the source and have no submitted work to document.
 
-The full assessment PDF, task sheets, tutor conversations, student number, credential values and device data are excluded. Source page references allow the owner to compare these write-ups against the original without publishing the entire assessment. One debugger excerpt is included as technical evidence. There are no packet captures, executables or offensive scripts in this repository.
+The full assessment PDF, task sheets, tutor conversations, student number, credential values and device data are excluded. Source page references allow the owner to compare these write-ups against the original without publishing the entire assessment. Selected screenshot excerpts accompany all 20 practical tasks, with captions explaining what the evidence supports. The ethics acknowledgement has no practical screenshot. There are no packet captures, executables or offensive scripts in this repository.
 
 The documentation was reorganised and edited with AI assistance. The original portfolio also acknowledges AI assistance for some writing, scripting and lab planning. No tests were rerun during this conversion. Remediation sections are recommendations, not claims of fixes implemented and retested.
 
 ## Use and attribution
 
 This is a personal learning portfolio. Tools, application names and referenced materials belong to their respective owners. No open-source licence is asserted for university material or third-party code. Use these notes to understand the investigations, and obtain permission and scope before performing any security testing.
+
+## Visual evidence
+
+Open each practical task to see its screenshot and evidence caption. Screenshots are historical excerpts from the original lab portfolio; they do not represent new tests.
+
+| Network and service analysis | Web application testing |
+| --- | --- |
+| ![Service banner in ZAP](assets/2.1p-evidence.png) | ![Reflected XSS test](assets/8.1p-evidence.png) |
+| ![ARP detector alerts](assets/5.2c-evidence.png) | ![Negative basket quantity](assets/8.2c-evidence.png) |
+
+[Full screenshot source map](docs/source-map.md#screenshot-source-pages)

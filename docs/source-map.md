@@ -32,4 +32,29 @@ The opening reflection is on physical pages 1-4 and is condensed in [reflection.
 
 The status summary lists 1.3HD Final Project Part 1, 5.4HD Final Project Part 2 and 7.3HD Final Project Check-in as Not Started. No corresponding project submissions appear, so no project work or outcomes have been fabricated.
 
-Source title: SIT379 ethical hacking portfolio, supplied by the owner. Task content is paraphrased into portfolio documentation; task-sheet instructions and marking conversations are not reproduced. The only republished image is a debugger excerpt from physical page 66.
+Source title: SIT379 ethical hacking portfolio, supplied by the owner. Task content is paraphrased into portfolio documentation; task-sheet instructions and marking conversations are not reproduced. Selected screenshot excerpts now accompany all 20 practical tasks. The ethics acknowledgement (1.1P) has no practical screenshot. The debugger excerpt is from physical page 66; the additional screenshot pages are listed below.
+
+## Screenshot source pages
+
+| Task | Physical PDF page | Evidence |
+| --- | --- | --- |
+| 1.2P | 17 | Lab interface configuration |
+| 2.1P | 26 | Service banner exposed in ZAP |
+| 2.2C | 36 | Mirrored site viewed locally |
+| 2.3D | 46 | Firewalk result on the permitted path |
+| 3.1P | 52 | Vulnerability scan findings |
+| 3.2C | 58 | Anonymous FTP scanner result |
+| 4.2D | 74 | Effective process privileges |
+| 5.1P | 87 | Test domain displaying the local Apache page |
+| 5.2C | 92 | ARP mapping-change alerts |
+| 5.3D | 117 | Browser result after proxy modification |
+| 6.1P | 124 | SYN traffic isolated in Wireshark |
+| 6.2C | 146 | Protection tool log for the lab source |
+| 7.1P | 153 | Web request from the intermediate Windows host |
+| 7.2D | 160 | Apache virtual-host configuration |
+| 8.1P | 167 | Reflected script execution in the test application |
+| 8.2C | 177 | Basket accepts a negative quantity |
+| 9.1P | 192 | APK requested-permission list |
+| 9.2C | 196 | PhoneSploit interface used in the lab |
+| 10.1P | 206 | MQTT enumeration traffic |
+| 4.1P | 66 | Debugger offset and byte investigation (existing image) |

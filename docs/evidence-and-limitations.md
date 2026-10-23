@@ -37,4 +37,4 @@ For each finding retain the target/build, test time, relevant configuration, exa
 
 ## Publication choices
 
-Excluded the original full PDF, university task-sheet text, conversations, student identifier, identity-linked reconnaissance, passwords/hashes, APKs and generated executable payloads. The single debugger image was selected because it illustrates the investigation without publishing those materials. No broad claim that every hidden detail in the original PDF has been sanitised is made; the original is deliberately not distributed.
+Excluded the original full PDF, university task-sheet text, conversations, student identifier, identity-linked reconnaissance, passwords/hashes, APKs and generated executable payloads. Selected screenshots illustrate all 20 practical tasks, with captions limiting each claim to the evidence shown. Identifying headers, test-account banners and unrelated traffic were cropped where necessary; credential dumps and personal device contents remain excluded. No broad claim that every hidden detail in the original PDF has been sanitised is made; the original is deliberately not distributed.
